@@ -1,9 +1,4 @@
-//
-//  common.cpp
-//  vcf2fas
-//
-//  Created by brunonevado on 03/10/2014.
-//
+// Author: Bruno Nevado
 
 #include "common.h"
 

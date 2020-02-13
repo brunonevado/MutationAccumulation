@@ -1,8 +1,5 @@
-/*
-
- Uses BIO++
- 
- */
+// Author: Bruno Nevado
+// Uses BIO++
 
 #include <iostream>
 #include <fstream>      // std::ofstream

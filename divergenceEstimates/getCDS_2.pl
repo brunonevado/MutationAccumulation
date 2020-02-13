@@ -9,6 +9,8 @@ use warnings;
 # Scaffold files should be desinterleaved and be aligned (doesnt check)
 # =======================================================================
 
+# Author: Bruno Nevado
+
 my $verbose = 1;
 
 my $infile = "out.A.blastlike";

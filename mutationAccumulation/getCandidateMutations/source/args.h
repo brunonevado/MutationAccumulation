@@ -1,6 +1,4 @@
-/*
- B. Nevado, 01/10/2014
-*/
+// Author: Bruno Nevado*/
 
 
 

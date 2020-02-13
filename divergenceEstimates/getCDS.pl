@@ -8,6 +8,8 @@ use warnings;
 # assignment should be to 'X' or 'A', not checked 
 # =======================================================================
 
+# Author: Bruno Nevado
+
 my $verbose = 1;
 
 my $infile_XA = "X_A_Scaffold.txt";

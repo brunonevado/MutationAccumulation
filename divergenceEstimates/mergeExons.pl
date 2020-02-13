@@ -2,6 +2,8 @@ use strict;
 use warnings;
 use Carp;
 
+# Author: Bruno Nevado
+
 my $cds = "cdss.gff";
 my $folder = "A";
 my $outfolder = "A_genes";

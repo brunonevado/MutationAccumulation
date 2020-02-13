@@ -1,7 +1,4 @@
-//
-//  vcf.h
-//  vcf2fas
-//
+// Author: Bruno Nevado
 //  Created by bnevado on 03/10/2014.
 //
 

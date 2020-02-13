@@ -1,8 +1,4 @@
-//
-//  common.h
-//  vcf2fas
-//
-//
+// Author: Bruno Nevado
 
 #ifndef __vcf2fas__common__
 #define __vcf2fas__common__
