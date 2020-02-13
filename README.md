@@ -1,9 +1,9 @@
 # MutationAccumulation  
   
-Scripts used in Fazalova & Nevado (submitted) "Low spontaneous mutation rate and Pleistocene radiation of pea aphids"  
+Scripts used in Fazalova & Nevado (submitted) "Low spontaneous mutation rate and Pleistocene radiation of pea aphids".
   
   
-Folders:  
+Two folders:  
   
 divergenceEstimates  
   
