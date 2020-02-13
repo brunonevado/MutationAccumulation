@@ -16,7 +16,7 @@ divergenceEstimates
   
 mutationAccumulation  
   
-  	Scrips used to identify and filter putative de novo mutations.
+  	Scripts used to identify and filter putative de novo mutations.
   	getCandidateMutations (generate list of candidate mutation from vcfs of 2 samples. C++ program, use make to install then run it without arguments for further info)  
   	filterCandidateMutations.pl (takes output from getCandidateMutations and filters mutations using bam files from the 2 samples)  
   	
